@@ -1,0 +1,1 @@
+export const MOVIE_GET_SUCCESS = "MOVIE_GET_SUCCESS";
